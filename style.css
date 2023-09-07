@@ -21,7 +21,6 @@ a{
 
 .intro_p{
     margin-bottom: 2em;
-    font-size: 1.5em;
 }
 
 .intro_a{
@@ -35,11 +34,11 @@ footer{
 }
 
 article{
+    padding: 1em;
     width: 33vw;
     height: auto;
-    min-width: 150px;
+    min-width: 115px;
     min-height: 100px;
-    padding: 1em;
     display: inline-block;
     box-sizing: border-box;
 }
@@ -56,7 +55,7 @@ article{
 
 .intro_h1{
     padding-top: 5em;
-    font-size: 3em;
+    font-size: 2.5em;
     margin: 0;
 }
 
