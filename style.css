@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: #926239;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+section{
+    padding: 1em;
+    text-align: center;
+}
+
+a{
+    border: 2px solid #926239;
+    color: #926239;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.intro_p{
+    margin-bottom: 2em;
+}
+
+.intro_a{
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+
+footer{
+    width: 100vw;
+    height: auto;
+}
+
+article{
+    padding: 1em;
+    width: 33vw;
+    height: auto;
+    min-width: 115px;
+    min-height: 100px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.intro{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assets/beachshowcase.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0;
+}
+
+.intro_h1{
+    padding-top: 5em;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+
+.gold{
+    background-color: #926239;
+    color: #f4f4f4;
+}
+
+.white{
+    background-color: #f4f4f4;
+}
